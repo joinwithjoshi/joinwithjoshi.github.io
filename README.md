@@ -1,2 +1,2 @@
 # joinwithjoshi-
-fake for Experimental.
+Experimental for use open source.
